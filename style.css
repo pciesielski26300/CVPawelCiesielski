@@ -189,7 +189,7 @@ a {
     background-color: #A7B8BF;
     color: white;
     text-align: center;
-
+    margin-bottom: 0em;
 }
 
 @media only screen and (max-width: 768px) {
