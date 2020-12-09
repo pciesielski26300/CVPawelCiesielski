@@ -198,6 +198,7 @@ a {
 
 .fs80 {
     font-size: 80%;
+    padding: -5em;
 }
 
 
@@ -207,10 +208,7 @@ a {
     left: 0;
     bottom: 0;
     width: 100%;
-    /*
-    height: 4em;
-    margin-top: -2em;
-*/
+
     background-color: #A7B8BF;
     color: white;
     text-align: center;
